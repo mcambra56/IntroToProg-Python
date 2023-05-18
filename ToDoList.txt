@@ -1,0 +1,4 @@
+Clean Cat Litter,high
+Sweep Garage,low
+Change smoke alarm,high
+Mop the Kitchen,low
